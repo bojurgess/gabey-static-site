@@ -64,7 +64,6 @@
   <span class="flex flex-col w-full">
     <section class="ml-1 mb-1">
       <h1 class="text-5xl font-bold shadow-text">Gabey.</h1>
-      <h2 class="sm:truncate shadow-text">Pescatarian progressive grindcore drummer.</h2>
     </section>
     <section class="flex justify-center w-full max-w-[600px]">
       {#each links as link}
